@@ -215,5 +215,5 @@
   <child>top</child>
   </joint>
  </model>
-</world>
+ </world>
 </sdf>
